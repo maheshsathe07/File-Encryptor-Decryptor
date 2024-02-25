@@ -26,7 +26,7 @@ The cascading algorithm combines AES and BlowFish encryption to enhance the secu
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/your_project.git
+    https://github.com/maheshsathe07/File-Encryptor-Decryptor.git
     ```
 
 ### Contributors
