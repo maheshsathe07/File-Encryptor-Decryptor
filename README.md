@@ -1,6 +1,6 @@
 # File Encryption and Decryption Project
 
-![Project Image Placeholder](placeholder_image.png)
+![Project Image Placeholder](image.png)
 
 ### Overview
 This project implements file encryption and decryption using AES, BlowFish, and a cascading algorithm. It provides a secure way to protect sensitive data in files by applying strong encryption techniques.
